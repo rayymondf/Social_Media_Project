@@ -99,12 +99,3 @@ POST /api/posts/:id/like
 GET  /api/users
 GET  /api/users/:id
 ```
-
-Comment routes exist in the server from earlier work, but comments are intentionally not part of the current product UI.
-
-## Intentional Limits
-
-- No comment UI.
-- No image uploads.
-- No following system.
-- No real-time updates.
