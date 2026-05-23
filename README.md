@@ -1,8 +1,7 @@
 # Social Media App
 
-=======
+---
 A full-stack social posting app. Users can sign up, sign in, continue as Guest, publish posts, like posts, browse profiles, and view individual profile timelines.
->>>>>>> fa6b0001e4def3fd9b808af03b7a28948dba70ff
 
 **Live demo:** https://posting-dashboard-project.onrender.com/
 
