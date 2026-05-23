@@ -1,6 +1,6 @@
-# Instigator
+# Social Media App
 
-Instigator is a full-stack social posting app. Users can sign up, sign in, continue as Guest, publish posts, like posts, browse profiles, and view individual profile timelines.
+A full-stack social posting app. Users can sign up, sign in, continue as Guest, publish posts, like posts, browse profiles, and view individual profile timelines.
 
 Link to the app: https://posting-dashboard-project.onrender.com/
 
