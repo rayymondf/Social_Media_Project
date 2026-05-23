@@ -3,7 +3,7 @@
 ---
 A full-stack social posting app. Users can sign up, sign in, continue as Guest, publish posts, like posts, browse profiles, and view individual profile timelines.
 
-**Live demo:** https://posting-dashboard-project.onrender.com/
+**Live demo:** [https://posting-dashboard-project.onrender.com/](https://social-media-project-1-d15l.onrender.com/)
 
 ---
 
